@@ -10,7 +10,8 @@ Building a modern data warehouse with SQL Server including data modelling and an
 **Data Quality: Clean and resolve data quality issues.**
 **Integration: Combine both sources into a single data.**
 **Documentation: Provide clear documentation of the data model.**
---
+**
+
 ### License
 This project is licensed under the MIT License.
 ### About me:
